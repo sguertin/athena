@@ -1,0 +1,10 @@
+# Local VS Code Settings
+.vscode/settings.json
+# Python Files
+__pycache__/
+venv/
+
+*.pyc
+
+# Ignore generated files
+*.mp3
